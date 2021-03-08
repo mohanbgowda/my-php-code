@@ -16,3 +16,5 @@ echo 'This is not a Prime Number.....'."\n";
 else
 echo 'This is a Prime Number..'."\n";
 ?>
+
+This program helps to know that the given number is prime or not
